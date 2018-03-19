@@ -1,3 +1,4 @@
+//discontinuousfunc1.bvr
 //Parametric surface
 h=parametricSurface
 h.setMinMax=s,-3,3
