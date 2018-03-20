@@ -64,3 +64,8 @@ txt3=text
 txt3.text=X-Axis
 txt3.color=red
 txt3.position=4.7,0,0
+
+txt4=text
+txt4.text=Saddle Point
+txt4.color=yellow
+txt4.position=-5,0,5
