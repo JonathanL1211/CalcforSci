@@ -1,7 +1,7 @@
 //Curl Vec 
 s=sphere
 s.position=0,0,0
-s.scale=3,3,0
+s.scale=3,3,0.2
 s.color=green
 
 a1=vectorDraw
